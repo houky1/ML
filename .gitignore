@@ -3,3 +3,6 @@
 
 # Игнорировать файл .env
 .env
+
+# Папка с кэшем Jupyter
+.ipynb_checkpoints/
